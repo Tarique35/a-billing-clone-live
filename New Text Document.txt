@@ -1,0 +1,3 @@
+ <input class="phone"type="text" placeholder=""
+            style="width: 380px; padding-top: 12px; margin-top: 2px;" />
+color:#146eb4;
